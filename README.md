@@ -1,5 +1,7 @@
 # Movie_recommendations
 
+Final Project for the Dynamic systems 2023-2 class, taught by Dr. Victor de la Luz at the Universidad Nacional Autónoma de México (National Autonomous University of México | UNAM), in its Escuela Nacional de Estudios Superiores Unidad Morelia Campus (National School of Superior-Level Studies, Morelia Campus | ENES Morelia), as part of its Licenciatura en Tecnologías para la Información en Ciencias career plan (Bs. in Information Technologies applied to Science | L.T.I.C.).
+
 ## Members
 
 * [Mariela Yael Arias Rojo](https://github.com/marielaAriass)
