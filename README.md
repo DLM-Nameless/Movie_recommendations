@@ -23,6 +23,9 @@ Creating a platform that collects movie information through simple questions to 
 - Ellaborate an algorithm which can provide movie recommendations that fit the user's tastes. The personalized recommendation can increase user satisfaction and increase the likelihood that they will return to the page.
 - Create an engaging user experience: By making the movie search process easier and more comfortable for the user, you can create a more engaging user experience.
 
+## General system architecture
+![General system architecture](https://user-images.githubusercontent.com/100146837/233822542-40df160a-978c-427c-81cd-b597208b44f9.jpg)
+
 ## Used Tools
 * [Python 3](https://www.python.org/).
 * [TMDB API](https://www.themoviedb.org/documentation/api?language=es-es).
