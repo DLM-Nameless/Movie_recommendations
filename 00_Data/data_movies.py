@@ -34,8 +34,8 @@ params = {
 # Lista vacía para almacenar los datos de las películas
 movies_data = []
 
-# Loop para recorrer todas las páginas de resultados
-while params["page"] <= 200: # Limitar a 1000 resultados
+# Loop para recorrer todas las páginas
+while params["page"] <= 200: 
     # Hacer la petición GET a la API
     response = requests.get(base_url + movies_endpoint, params=params)
     # Convertir la respuesta a JSON
