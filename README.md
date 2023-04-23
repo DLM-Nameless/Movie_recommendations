@@ -28,4 +28,4 @@ Creating a platform that collects movie information through simple questions to 
 
 ## Used Tools
 * [Python 3](https://www.python.org/).
-* [TMDB API](https://www.themoviedb.org/documentation/api).
+* [TMDb API](https://www.themoviedb.org/documentation/api).
