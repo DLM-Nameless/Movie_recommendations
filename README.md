@@ -8,9 +8,12 @@
 * [Leonardo Ariel Tapia Figueroa](https://github.com/leotapia11)
 * [Débora Joselyn Tolentino Díaz](https://github.com/Debytd)
 
-Final Project for the Dynamic systems 2023-2 class, taught by Dr. Victor de la Luz at the Universidad Nacional Autónoma de México (National Autonomous University of México | UNAM), in its Escuela Nacional de Estudios Superiores Unidad Morelia Campus (National School of Superior-Level Studies, Morelia Campus | ENES Morelia), as part of its Licenciatura en Tecnologías para la Información en Ciencias career plan (Bs. in Information Technologies applied to Science | L.T.I.C.).
+Final Project for the Dynamic systems 2023-2 class, for the Universidad Nacional Autónoma de México (National Autonomous University of México | UNAM), in Escuela Nacional de Estudios Superiores Unidad Morelia Campus (National School of Superior-Level Studies, Morelia Campus | ENES Morelia).
 
 The contents of this repository are licensed under the GNU General Public License version 3. Visit https://www.gnu.org/licenses/gpl-3.0.html for more information.
+
+## Introduction
+Whenever we try to watch a movie, we tend to spend up to a few hours choosing a movie to watch. 
 
 ## Definition 
 Creating a platform that collects information about movies, such as title, genre, rating, streaming platform where it's available, and popularity, so you can make personalized recommendations. By asking questions like streaming platform or genre of interest, the platform could filter the options and provide accurate and relevant suggestions for the user.
