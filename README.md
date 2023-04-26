@@ -19,7 +19,7 @@ Creating a platform that collects information about movies, such as title, genre
 - Offer personalized movies recommendations based on the user's information that has been collected through a short questionnaire.
 
 ## Objectives
-- Collect relevant information from movies: Collect detailed information about movies, such as genre, duration, plot, cast, rating, etc.
+- Collect relevant information from movies: Collect detailed information about movies, such as genre, plot, rating, etc.
 - Ellaborate an algorithm which can provide movie recommendations that fit the user's tastes. The personalized recommendation can increase user satisfaction and increase the likelihood that they will return to the page.
 - Create an engaging user experience: By making the movie search process easier and more comfortable for the user, you can create a more engaging user experience.
 
