@@ -13,7 +13,7 @@ Final Project for the Dynamic systems 2023-2 class, taught by Dr. Victor de la L
 The contents of this repository are licensed under the GNU General Public License version 3. Visit https://www.gnu.org/licenses/gpl-3.0.html for more information.
 
 ## Definition 
-Creating a platform that collects movie information through simple questions to suggest personalized options to the user is a great way to help people find movies they might enjoy. By asking questions like movie length and genre of interest, the platform could filter the options and provide accurate and relevant suggestions to the user. In addition, the platform could also include user feedback and ratings so that users can make informed decisions.
+Creating a platform that collects information about movies, such as title, genre, rating, streaming platform where it's available, and popularity, so you can make personalized recommendations. By asking questions like streaming platform or genre of interest, the platform could filter the options and provide accurate and relevant suggestions for the user.
 
 ## General Objective
 - Offer personalized movies recommendations based on the user's information that has been collected through a short questionnaire.
