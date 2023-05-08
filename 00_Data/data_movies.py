@@ -43,6 +43,7 @@ while params["page"] <= 200:
             "nombre": result["title"],
             "calificacion": result["vote_average"],
             "vistas": result["popularity"],
+            "release_date": result.get("release_date", None),
             "streaming": []
         }
         # Obtener los IDs de los géneros de la película
@@ -73,10 +74,12 @@ while params["page"] <= 200:
     # Incrementar el número de página para la siguiente consulta
     params["page"] += 1
 
-# Va a imprimir titulo, genero, calificacion y vistas
+# Va a imprimir titulo, genero, calificacion, vistas y fecha de lanzamiento
 for movie in movies_data:
     print(movie)
 
+    
+# Guardar los datos en un archivo JSON    
 movies_json = json.dumps(movies_data)
 with open('movies.json', 'w') as file:
     file.write(movies_json)
