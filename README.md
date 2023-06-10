@@ -8,7 +8,7 @@
 * [Leonardo Ariel Tapia Figueroa](https://github.com/leotapia11)
 * [Débora Joselyn Tolentino Díaz](https://github.com/Debytd)
 
-Final Project for the Distributed Computings 2023-2 class, for the Universidad Nacional Autónoma de México (National Autonomous University of México | UNAM), in Escuela Nacional de Estudios Superiores Unidad Morelia Campus (National School of Superior-Level Studies, Morelia Campus | ENES Morelia).
+Final Project for the Distributed Computing 2023-2 class, for the Universidad Nacional Autónoma de México (National Autonomous University of México | UNAM), in Escuela Nacional de Estudios Superiores Unidad Morelia Campus (National School of Superior-Level Studies, Morelia Campus | ENES Morelia).
 
 The contents of this repository are licensed under the GNU General Public License version 3. Visit https://www.gnu.org/licenses/gpl-3.0.html for more information.
 
