@@ -58,5 +58,8 @@ In our daily life, when we have to choose a movie to watch, we don't have an ide
 It is concluded that it is necessary to continue working to provide a product that is increasingly simple and smarter. However, the current prototype is functional and can be easily implemented in a distributed system, as expected from this project.
 
 ## References
+According to the documentation available at [this link](https://dash.plotly.com/dash-enterprise/database-connections?de-version=5.1), you can get more information about database connections in Dash Enterprise.
+
+
 
 
