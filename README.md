@@ -34,5 +34,9 @@ The project is to be developed by making use of modern [Python 3](https://www.py
 * [Dash](https://dash.plotly.com/)
 * [json](https://docs.python.org/es/3/library/json.html)
 * [sqlite3](https://docs.python.org/3/library/sqlite3.html)
+
 In addition we use:
-* [TMDb API](https://www.themoviedb.org/documentation/api).
+* [TMDb API](https://www.themoviedb.org/documentation/api)
+
+## Methodogoly
+
