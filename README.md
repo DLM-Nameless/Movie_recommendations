@@ -39,4 +39,24 @@ In addition we use:
 * [TMDb API](https://www.themoviedb.org/documentation/api)
 
 ## Methodogoly
+The project starts with the creation of a spider that crawls the required data from the TMDb API, followed by a script for the creation of a database that contains the following data of the obtained movies: title, genre, rating, views, release date and streaming platform where available.
+
+Subsequently, the production script is responsible for creating an interactive platform where you can find the most popular movies of the moment. A menu is also displayed with the options of genres and streaming platforms, where the user can choose the one of their interest. At the time of selection, the 10 films with the best rating will be shown.
+
+## Results
+The result is a platform in which we can choose the genre of the movies that we are interested in watching and the streaming platform that we have available.
+![01](https://github.com/DLM-Nameless/Movie_recommendations/assets/100146837/5fd1fa74-1f2d-45a7-8192-e26a2ef319b7)
+![02](https://github.com/DLM-Nameless/Movie_recommendations/assets/100146837/c922f940-17a8-477d-88b8-33663a20a599)
+
+And the most viewed movies of the moment will be shown. 
+![03](https://github.com/DLM-Nameless/Movie_recommendations/assets/100146837/b8994483-3b26-47b3-8e7e-8dfae36daf7b)
+
+## Conclusions
+
+In our daily life, when we have to choose a movie to watch, we don't have an idea of all the available options, but with this prototype, we can get great help.
+
+It is concluded that it is necessary to continue working to provide a product that is increasingly simple and smarter. However, the current prototype is functional and can be easily implemented in a distributed system, as expected from this project.
+
+## References
+
 
