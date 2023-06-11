@@ -29,6 +29,10 @@ Creating a platform that collects information about movies, such as title, genre
 ## General system architecture
 ![General system architecture](https://user-images.githubusercontent.com/100146837/233822542-40df160a-978c-427c-81cd-b597208b44f9.jpg)
 
-## Used Tools
-* [Python 3](https://www.python.org/).
+## Toolset
+The project is to be developed by making use of modern [Python 3](https://www.python.org/) libraries, including but not limited to:
+* [Dash](https://dash.plotly.com/)
+* [json](https://docs.python.org/es/3/library/json.html)
+* [sqlite3](https://docs.python.org/3/library/sqlite3.html)
+In addition we use:
 * [TMDb API](https://www.themoviedb.org/documentation/api).
