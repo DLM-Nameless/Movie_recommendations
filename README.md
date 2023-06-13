@@ -29,14 +29,6 @@ Creating a platform that collects information about movies, such as title, genre
 ## General system architecture
 ![General system architecture](https://user-images.githubusercontent.com/100146837/233822542-40df160a-978c-427c-81cd-b597208b44f9.jpg)
 
-## Toolset
-The project is to be developed by making use of modern [Python 3](https://www.python.org/) libraries, including but not limited to:
-* [Dash](https://dash.plotly.com/)
-* [json](https://docs.python.org/es/3/library/json.html)
-* [sqlite3](https://docs.python.org/3/library/sqlite3.html)
-
-In addition we use:
-* [TMDb API](https://www.themoviedb.org/documentation/api)
 
 ## Methodogoly
 The project starts with the creation of a spider that crawls the required data from the TMDb API, followed by a script for the creation of a database that contains the following data of the obtained movies: title, genre, rating, views, release date and streaming platform where available.
@@ -60,6 +52,13 @@ It is concluded that it is necessary to continue working to provide a product th
 ## References
 According to the documentation available at [this link](https://dash.plotly.com/dash-enterprise/database-connections?de-version=5.1), you can get more information about database connections in Dash Enterprise.
 
+## Toolset
+The project is to be developed by making use of modern [Python 3](https://www.python.org/) libraries, including but not limited to:
+* [Dash](https://dash.plotly.com/)
+* [json](https://docs.python.org/es/3/library/json.html)
+* [sqlite3](https://docs.python.org/3/library/sqlite3.html)
 
+In addition we use:
+* [TMDb API](https://www.themoviedb.org/documentation/api)
 
 
